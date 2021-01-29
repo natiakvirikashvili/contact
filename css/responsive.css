@@ -1,0 +1,41 @@
+@media (max-width: 1109px) {
+    .navigation {
+        width: 780px;
+    }
+}    
+
+@media (max-width: 990px) {
+    .contact-h2 {
+        font-size: 22px;
+    }
+}    
+
+@media (max-width: 1150px) {
+    .container {
+    	width: 50%;
+    	margin-left: 10px;
+    }
+}
+
+@media (max-width: 1133px) {
+    .text-p,
+    .text-p2 {
+    	font-size: 30px;
+    	margin-left: 0;
+    }
+}
+
+@media (max-width: 1120px) {
+    .container {
+    	display: none;
+    }
+}
+
+@media (max-width: 880px) {
+    .navigation {
+        display: none;
+    }
+    .burger-icon {
+       display: block;
+    }
+}    
